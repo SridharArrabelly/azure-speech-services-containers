@@ -1,0 +1,6 @@
+{
+    "SPEECH_KEY": "10NalHRdqJNlT1J818UVXeUfd714LibFUxzqqDkmQoRMR4cNNqlKJQQJ99BBACrIdLPXJ3w3AAAEACOGKjxX",
+    "SPEECH_REGION": "southafricanorth",
+    "SPEECH_LANGUAGE": "en-US",
+    "SPEECH_ENDPOINT": "https://cog-ai-services-zanorth.cognitiveservices.azure.com/"
+}
